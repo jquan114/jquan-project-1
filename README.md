@@ -9,4 +9,4 @@ Page for books and book lovers.
   
   </h1>
 
-javascript, jquery, html, css
+
