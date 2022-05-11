@@ -1,5 +1,5 @@
 # jquan-project-1
-Page for books and book lovers.
+a site for software engineers seeking books to help them learn more languages
 <h1> https://i.imgur.com/PPW3dgg.png)</h1>
 <h1>
   technologies used
