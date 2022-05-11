@@ -1,5 +1,5 @@
 # jquan-project-1
 Page for books and book lovers.
-https://i.imgur.com/PPW3dgg.png)
+<h1> https://i.imgur.com/PPW3dgg.png)</h1>
 technologies used
 javascript, jquery, html, css
