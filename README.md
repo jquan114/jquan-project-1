@@ -1,13 +1,24 @@
 # jquan-project-1
-a site for software engineers seeking books to help them learn more languages
-<h1> https://i.imgur.com/PPW3dgg.png)</h1>
-<h1>
-  technologies used
-  </h1>
+<h2> 
+Flip The Page
+</h2>
+  <p> A web application to help software engineers find books on topics they want to explore using a book API</p>
 
-<p> javascript</p>
-<p> jquery</p>
-<p> css</p>
-<p> html</p>
+  <h2> 
+  Technologies used
+  </h2>
+  <ol>
+    <li> HTML 5</li>
+    <li> Javascript</li>
+    <li> jQuery</li>
+    <li> CSS</li>
+    </ol>
+<h2> Screenshots </h2>
 
 
+<h2> Getting started </h2>
+
+<p> <a href="https://developerbooks.netlify.app/" target="_blank">Click here </a><p>
+
+<h2>Future Enhancements</h2>
+<p> In the future this site will be developed to where users can see multiple books at one time. Also I want to add a feature where users can see the nearest book store to pick up the book they searched<p>
