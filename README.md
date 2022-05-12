@@ -21,7 +21,7 @@
 
 ## Getting started
 
-[Click here](https://developerbooks.netlify.app/) 
+[Click here](https://developerbooks.netlify.app/)
 
 ## Future Enhancements 
 In the future this site will be developed to where users can see multiple books at one time. Also I want to add a feature where users can see the nearest book store to pick up the book they searched.
