@@ -14,7 +14,7 @@ Flip The Page
     <li> CSS</li>
     </ol>
 <h2> Screenshots </h2>
-	![alt text](https://i.imgur.com/9H7igfy.png)
+	(https://i.imgur.com/9H7igfy.png)
 
 
 <h2> Getting started </h2>
