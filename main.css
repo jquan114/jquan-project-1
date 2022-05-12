@@ -1,11 +1,22 @@
 body{
     margin:0px;
+    background-color: white;
 }
+
+@media (min-width: 600px) {
+    .container{
+      flex-wrap: nowrap;
+    }
+
+    @viewport{
+        zoom:1.0;
+        width:extent-to-zoom;
+    }
 
 
 .container{
     text-align: center;
-    background-color:cornsilk;
+    background-color:white;
    width: 100vw;
    height: 100vh;
    
@@ -28,10 +39,11 @@ body{
 .container div {
     padding: 10px;
     border: 2PX solid grey;
+    background-color: azure;
 }
 
 .header{
-    background-color: bisque;
+    background-color:azure;
     text-align: center;
     grid-column-start: 1;
     grid-column-end: 4;
@@ -54,6 +66,7 @@ body{
 
 .footer{
     grid-column: 1 / span 3 ;
-    background-color: bisque;
+    background-color:white;
 }
 
+}
