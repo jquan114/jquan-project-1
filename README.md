@@ -9,12 +9,14 @@
   
   
     1.HTML 5
-    2.Javascript
-    3.jQuery
-    4. CSS
+    2.Ajax
+    3.Javascript
+    4.jQuery
+    5.CSS
     
 ## Screenshots 
-	(https://i.imgur.com/9H7igfy.png)
+
+![Website Image](https://i.imgur.com/9H7igfy.png)
 
 
 ## Getting started
