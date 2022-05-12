@@ -49,9 +49,12 @@ function getBookData(event) {
                console.log('book is ready')
             //    console.log(data)
         console.log(data.books)
-        $content1.text(data.books[0].title)
+        $content1.text(data.books[9].title)
+        $content1.text(data.books[9].price)
         let imgs = data.books[0].image
-        $('img').attr("src", imgs)
+         $('img').attr('src',imgs)        
+        
+         
         // $('.content1').append(`<img src="${data.image}">`)
            
     }, function (error) {
